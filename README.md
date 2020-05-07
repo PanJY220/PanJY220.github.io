@@ -1,15 +1,15 @@
-# PanJY220.github.io
+## PanJY220.github.io
 
 
 
-<hr>
+<hr>  
 <p>张三，男，个人简介</p>
 <hr>
-<h3>最新消息</h3>
+<h1>最新消息</h1>
 <ol>
 <li>消息1×××</li>
 </ol>
-<h3>研究方向</h3>
+<h5>研究方向</h5>
 <ul>
 <li>文本挖掘</li>
 <li>知识图谱</li>
@@ -31,6 +31,8 @@
 <li><strong>项目1</strong><br>项目描述</li>
 <li><strong>项目2</strong><br>项目描述</li>
 </ul>
+
+
 <div>
 <table border="0">
   <tr>
